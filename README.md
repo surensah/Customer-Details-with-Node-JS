@@ -40,12 +40,14 @@ API endpoints:
 
 /customer?id=value endpoint with sample customer id's:
 
-getCustomer with id: https://skilled-curve-247615.appspot.com/customer?id=103
+Customer with id: https://skilled-curve-247615.appspot.com/customer?id=103
 
-getCustomer with id:  https://skilled-curve-247615.appspot.com/customer?id=104
+Customer with id:  https://skilled-curve-247615.appspot.com/customer?id=104
 
-getCustomer with id: https://skilled-curve-247615.appspot.com/customer?id=110
+Customer with id: https://skilled-curve-247615.appspot.com/customer?id=110
 
-/postCustomer endpoint: https://nodejs-customer-243619.appspot.com/postCustomer
+To Add New Customer into Datastore:
 
-sample input for post customer { "custId":153244, "email":"chris.barnod@ikea.com", "firstName":"Chris", "lastName":"Barnod", "phone":"+46722222222" }
+/customer endpoint: https://skilled-curve-247615.appspot.com/customer
+
+sample input for post customer {	"customerId":"106",	"name":"James",	"email":"james@bcci.com",	"phoneNumber":"+789219087" }
