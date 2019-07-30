@@ -48,8 +48,8 @@ Customer with id: https://skilled-curve-247615.appspot.com/customer?id=103
 
 Customer with id: https://skilled-curve-247615.appspot.com/customer?id=110
 
-To Add New Customer into Datastore:
+To Add New Customer into Datastore using Postman:
 
 /customer endpoint: https://skilled-curve-247615.appspot.com/customer
 
-sample input for post customer {	"customerId":"106",	"name":"James",	"email":"james@bcci.com",	"phoneNumber":"+789219087" }
+sample input for add new customer {	"customerId":"106",	"name":"James",	"email":"james@bcci.com",	"phoneNumber":"+789219087" }
