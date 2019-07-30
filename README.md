@@ -6,8 +6,12 @@ By using nodejs and express framework:
 
 ## Created 3 apis:
 /allCustomers - api to fetch customers details from datastore
+
 /customer?id-value - api to fetch specific customer detail from datastore
+
 /customer - api to create new customer detail into datastore
+
+
 Local Usage: Prerequisite: Node modules should be installed on local machine
 
 npm init //It creates package.json file
