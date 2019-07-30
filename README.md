@@ -46,8 +46,6 @@ API endpoints:
 
 Customer with id: https://skilled-curve-247615.appspot.com/customer?id=103
 
-Customer with id:  https://skilled-curve-247615.appspot.com/customer?id=104
-
 Customer with id: https://skilled-curve-247615.appspot.com/customer?id=110
 
 To Add New Customer into Datastore:
