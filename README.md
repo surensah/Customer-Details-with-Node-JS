@@ -40,11 +40,11 @@ API endpoints:
 
 /customer?id=value endpoint with sample customer id's:
 
-getCustomer with id:http://localhost:3000/customer?id=108
+getCustomer with id: https://skilled-curve-247615.appspot.com/customer?id=103
 
-getCustomer with id:https://nodejs-customer-243619.appspot.com/getCustomer?id=153242
+getCustomer with id:  https://skilled-curve-247615.appspot.com/customer?id=104
 
-getCustomer with id:https://nodejs-customer-243619.appspot.com/getCustomer?id=153243
+getCustomer with id: https://skilled-curve-247615.appspot.com/customer?id=110
 
 /postCustomer endpoint: https://nodejs-customer-243619.appspot.com/postCustomer
 
