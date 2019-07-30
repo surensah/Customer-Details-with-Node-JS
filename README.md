@@ -32,11 +32,11 @@ $gcloud app deploy(google sdk)
 
 $gcloud app browse
 
-Application "Hello World" Endpoint: https://earnest-crow-243811.appspot.com
+Application "Hello World" Endpoint: https://skilled-curve-247615.appspot.com/
 
 API endpoints:
 
-/allCustomers endpoint: https://nodejs-customer-243619.appspot.com/getCustomers
+/allCustomers endpoint: https://skilled-curve-247615.appspot.com/allCustomers
 
 /customer?id=value endpoint with sample customer id's:
 
