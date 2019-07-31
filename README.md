@@ -5,7 +5,7 @@ Initially created a datastore with (kind) "customer" with few attributes like cu
 By using nodejs and express framework:
 
 ## Created 3 apis:
-/allCustomers - api to fetch customers details from datastore
+/customers - api to fetch customers details from datastore
 
 /customer?id-value - api to fetch specific customer detail from datastore
 
@@ -40,7 +40,7 @@ Application "Hello World" Endpoint: https://skilled-curve-247615.appspot.com/
 
 API endpoints:
 
-/allCustomers endpoint: https://skilled-curve-247615.appspot.com/allCustomers
+/customers endpoint: https://skilled-curve-247615.appspot.com/allCustomers
 
 /customer?id=value endpoint with sample customer id's:
 
