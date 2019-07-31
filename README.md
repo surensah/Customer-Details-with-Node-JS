@@ -40,7 +40,7 @@ Application "Hello World" Endpoint: https://skilled-curve-247615.appspot.com/
 
 API endpoints:
 
-/customers endpoint: https://skilled-curve-247615.appspot.com/allCustomers
+/customers endpoint: https://skilled-curve-247615.appspot.com/customers
 
 /customer?id=value endpoint with sample customer id's:
 
